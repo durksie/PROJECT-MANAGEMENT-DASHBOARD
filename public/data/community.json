@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Frontend Developer",
+    "department": "Engineering",
+    "avatar": "/diverse-person-portrait.png",
+    "status": "online"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "avatar": "/diverse-group-conversation.png",
+    "status": "online"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "role": "Backend Developer",
+    "department": "Engineering",
+    "avatar": "/diverse-group-meeting.png",
+    "status": "offline"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Wilson",
+    "role": "Project Manager",
+    "department": "Management",
+    "avatar": "/diverse-group-five.png",
+    "status": "online"
+  }
+]

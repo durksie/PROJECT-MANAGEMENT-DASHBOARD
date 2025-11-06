@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Project Kickoff Meeting",
+    "date": "August 15, 2025",
+    "time": "10:00 AM",
+    "project": "Website developing",
+    "attendees": 5
+  },
+  {
+    "id": 2,
+    "title": "Design Review",
+    "date": "August 18, 2025",
+    "time": "2:00 PM",
+    "project": "Editable project",
+    "attendees": 3
+  },
+  {
+    "id": 3,
+    "title": "Sprint Planning",
+    "date": "August 20, 2025",
+    "time": "9:00 AM",
+    "project": "Website developing",
+    "attendees": 7
+  }
+]

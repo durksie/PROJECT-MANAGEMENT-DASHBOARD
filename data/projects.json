@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Website developing",
+    "status": "Planned",
+    "date": "August 11, 2025",
+    "startDate": "July 15, 2025",
+    "dueDate": "August 11, 2025",
+    "dateSort": "2025-08-11T00:00:00.000Z",
+    "members": 7,
+    "comments": 2,
+    "progress": 0,
+    "description": "Building a modern responsive website with React and Tailwind CSS",
+    "techStack": "React, Tailwind CSS, Next.js",
+    "author": "John Doe",
+    "memberAvatars": [
+      "/diverse-person-portrait.png",
+      "/diverse-group-conversation.png",
+      "/diverse-group-meeting.png",
+      "/diverse-group-meeting.png",
+      "/diverse-group-five.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Editable project",
+    "status": "Planned",
+    "date": "August 11, 2025",
+    "startDate": "July 20, 2025",
+    "dueDate": "August 11, 2025",
+    "dateSort": "2025-08-11T00:00:00.000Z",
+    "members": 7,
+    "comments": 0,
+    "progress": 0,
+    "description": "Creating an editable content management system",
+    "techStack": "Vue.js, Node.js, MongoDB",
+    "author": "Jane Smith",
+    "memberAvatars": [
+      "/diverse-group-meeting.png",
+      "/diverse-group-meeting.png",
+      "/diverse-group-meeting.png",
+      "/diverse-group-conversation.png",
+      "/diverse-group-meeting.png"
+    ]
+  }
+]
